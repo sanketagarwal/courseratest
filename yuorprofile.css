@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.classheader{
+    position: relative;
+    position: fixed;
+    width: 1600px;
+}
+.image img{
+    width: 40px;
+    height: 44px;
+    filter: invert(100%);
+}
+.userbtn{
+    cursor: pointer;
+}
+.userbtn:hover{
+    color: aliceblue;
+}
+
+#open{
+    cursor: pointer;
+}
